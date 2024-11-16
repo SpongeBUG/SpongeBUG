@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Full-stack web applications using the MERN stack<br>💛 I'm looking for help with<br>Advanced AWS Lambda configurations and Docker optimization<br><br>🏆 I'm currently learning<br>Advanced microservices architecture and Redis caching strategies
+🔭 I'm currently working on<br>Full-stack web applications using the MERN stack<br><br>💛I'm looking for help with<br>Advanced AWS Lambda configurations and Docker optimization<br><br>🏆 I'm currently learning<br>Advanced microservices architecture and Redis caching strategies
 
 
 ## 🌐 Socials:
