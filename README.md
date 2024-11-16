@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Full-stack web applications using the MERN stack<br><br>👯 I'm looking to collaborate on<br>Open source projects involving Node.js and React<br><br>💛 I'm looking for help with<br>Advanced AWS Lambda configurations and Docker optimization<br><br>🏆 I'm currently learning<br>Advanced microservices architecture and Redis caching strategies<br><br>💬 Ask me about<br>- MongoDB, Express.js, React, Node.js development<br>- AWS Lambda serverless architecture<br>- Docker containerization<br>- API testing with Postman<br>- Redis caching implementation<br><br>⚡ Fun fact<br>I build scalable applications that handle millions of requests!
+🔭 I'm currently working on<br>Full-stack web applications using the MERN stack<br><br>💛I'm looking for help with<br>Advanced AWS Lambda configurations and Docker optimization<br><br>🏆 I'm currently learning<br>Advanced microservices architecture and Redis caching strategies
 
 
 ## 🌐 Socials:
