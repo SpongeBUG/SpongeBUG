@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Full-stack web applications using the MERN stack<br><br>💛I'm looking for help with<br>Advanced AWS Lambda configurations and Docker optimization<br><br>🏆 I'm currently learning<br>Advanced microservices architecture and Redis caching strategies
-
+🔭 I'm currently working on<br>Full-stack web applications using the MERN stack<br>💛I'm looking for help with<br>Advanced AWS Lambda configurations and Docker optimization<br>🏆 I'm currently learning<br>Advanced microservices architecture and Redis caching strategies
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/simplyime) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@hi_im_ism) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ism-guarte-9a1055238/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ism_guarte) 
