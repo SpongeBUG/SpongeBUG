@@ -30,7 +30,7 @@ I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/LearningNoob00000">
+<a href="https://github.com/SpongeBUG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LearningNoob00000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearningNoob00000&layout=compact&langs_count=8&theme=dark"/>
 </a>
