@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ism Guarte!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;Cloud+%26+Microservices+Architect+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;Cloud+%26+Microservices+Expert+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ism-guarte-9a1055238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -82,11 +82,18 @@ const ism = {
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SpongeBUG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SpongeBUG&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FB923C&currStreakLabel=C9D1D9" />
+<a href="https://github.com/SpongeBUG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpongeBUG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpongeBUG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpongeBUG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook,html,css" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SpongeBUG&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FB923C&area=true" />
+<p></p>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SpongeBUG&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FB923C&currStreakLabel=C9D1D9" />
+
+<p></p>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SpongeBUG&bg_color=0D1117&color=3B82F6&line=FB923C&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -97,16 +104,6 @@ const ism = {
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SpongeBUG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpongeBUG&bg_color=0D1117&color=3B82F6&line=FB923C&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
