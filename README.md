@@ -2,13 +2,12 @@
 
 # 👋 Hey, I'm Ism Guarte!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;Cloud+%26+Microservices+Expert+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ism-guarte-9a1055238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/ism_guarte"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://instagram.com/hi_im_ism"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=SpongeBUG&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 </p>
 
 </div>
