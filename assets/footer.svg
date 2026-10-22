@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Quote footer" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<title>Quote footer</title>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#21262d"/></pattern>
+<clipPath id="win"><rect width="900" height="150" rx="12"/></clipPath>
+
+</defs>
+<g clip-path="url(#win)"><rect width="900" height="150" fill="#0d1117"/><rect width="900" height="150" fill="url(#dots)"/></g><text x="450.0" y="48" text-anchor="middle" font-size="18" fill="#c9d1d9"><tspan fill="#8b949e">// </tspan>First, solve the problem. Then, write the code.</text><text x="450.0" y="74" text-anchor="middle" font-size="13" fill="#8b949e">— John Johnson</text><g clip-path="url(#win)"><g transform="translate(0 100)"><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-300" dur="6s" repeatCount="indefinite"/><path d="M0 0 Q75 -14 150 0 Q225 14 300 0 Q375 -14 450 0 Q525 14 600 0 Q675 -14 750 0 Q825 14 900 0 Q975 -14 1050 0 Q1125 14 1200 0" fill="none" stroke="url(#g)" stroke-width="2" opacity=".9"/><path d="M0 0 Q75 -14 150 0 Q225 14 300 0 Q375 -14 450 0 Q525 14 600 0 Q675 -14 750 0 Q825 14 900 0 Q975 -14 1050 0 Q1125 14 1200 0" fill="none" stroke="url(#g)" stroke-width="2" opacity=".35" transform="translate(-100 8)"/><path d="M0 0 Q75 -14 150 0 Q225 14 300 0 Q375 -14 450 0 Q525 14 600 0 Q675 -14 750 0 Q825 14 900 0 Q975 -14 1050 0 Q1125 14 1200 0" fill="none" stroke="url(#g)" stroke-width="2" opacity=".15" transform="translate(-200 16)"/></g></g></g><text x="450.0" y="142" text-anchor="middle" font-size="12" fill="#8b949e" opacity=".8">git commit -m "thanks for stopping by"  <tspan fill="#3fb950">✔</tspan></text><rect x=".5" y=".5" width="899" height="149" rx="12" fill="none" stroke="#30363d"/>
+</svg>
